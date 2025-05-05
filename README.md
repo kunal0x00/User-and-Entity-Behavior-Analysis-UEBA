@@ -9,6 +9,8 @@ This project implements a real-time User and Entity Behaviour Analysis (UEBA) sy
 
 ![image](https://github.com/user-attachments/assets/29f7b097-61a1-488d-a3a8-402f92285505)
 
+![image](https://github.com/user-attachments/assets/f40ef82a-d212-4427-8478-46f93a748124)
+
 ---
 ## 🔧 Technologies Used
 
