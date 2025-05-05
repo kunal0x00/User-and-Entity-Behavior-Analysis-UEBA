@@ -3,6 +3,11 @@
 ## 📌 Project Overview
 
 This project implements a real-time User and Entity Behaviour Analysis (UEBA) system for identifying abnormal user activities and potential threats within an organizational network. It utilizes endpoint log data collected from Sysmon and Windows Event Viewer through custom-built log agents. These logs are aggregated on a central Python server, where an anomaly detection model (Isolation Forest) calculates risk scores. The results are then visualized on an interactive React-based dashboard with investigation and reporting features.
+---
+
+![image](https://github.com/user-attachments/assets/0420de0d-6cfd-4ddd-836f-b54a56a58263)
+---
+![image](https://github.com/user-attachments/assets/29f7b097-61a1-488d-a3a8-402f92285505)
 
 ## 🔧 Technologies Used
 
@@ -52,5 +57,4 @@ This project implements a real-time User and Entity Behaviour Analysis (UEBA) sy
 - Trained Isolation Forest model using historical data to detect anomalies
 - Real-time scoring and visualization using dashboard
 
-## 📁 Folder Structure
 
